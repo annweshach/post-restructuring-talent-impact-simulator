@@ -1,0 +1,301 @@
+employee_id,name,department,job_level,skills,performance_score,tenure_years,status,at_risk_flag,replacement_cost_usd
+EMP1000,Danielle Myers,Engineering,L1 - Analyst,"Cloud Architecture, DevOps, ML/AI",4.3,11,Active,0,25000
+EMP1001,Christina Santana,HR,L1 - Analyst,"Talent Acquisition, Employee Relations, HR Analytics",3.0,9,Active,0,25000
+EMP1002,Laurie Valdez,HR,L2 - Senior Analyst,"HR Analytics, L&D Design, Talent Acquisition",4.4,3,Active,0,45000
+EMP1003,Lisa Stephens,Product,L1 - Analyst,"Roadmapping, Product Strategy",2.7,2,Laid Off,0,25000
+EMP1004,Stephanie Burke,Product,L2 - Senior Analyst,"Stakeholder Management, Data Analysis",3.8,7,Active,0,45000
+EMP1005,Sheryl Johnson,Product,L3 - Manager,"Roadmapping, Agile, User Research, Stakeholder Management",2.7,11,Laid Off,0,75000
+EMP1006,Christopher Frye,Product,L5 - Director,"Product Strategy, Data Analysis",3.2,11,Active,1,180000
+EMP1007,Cassandra Keith,Product,L1 - Analyst,"Stakeholder Management, Product Strategy, User Research",3.8,4,Active,0,25000
+EMP1008,Bryce Johnson,Sales,L1 - Analyst,"Forecasting, Account Management, CRM Management, Negotiation",3.3,1,Laid Off,0,25000
+EMP1009,Sean Robinson,Engineering,L3 - Manager,"Data Engineering, Python, Cloud Architecture",4.8,10,Active,0,75000
+EMP1010,Crystal Sandoval,Product,L1 - Analyst,"Data Analysis, Stakeholder Management, User Research",3.2,4,Active,0,25000
+EMP1011,Patricia Johnson,HR,L2 - Senior Analyst,"Compensation & Benefits, L&D Design, HRIS Management, Talent Acquisition",3.8,2,Active,0,45000
+EMP1012,Michele Wilson,Engineering,L1 - Analyst,"DevOps, Cybersecurity",4.0,7,Active,0,25000
+EMP1013,Katelyn Harrison,Sales,L2 - Senior Analyst,"Enterprise Sales, Forecasting, Negotiation, Market Analysis",3.4,5,Active,0,45000
+EMP1014,Richard Torres,Product,L5 - Director,"Agile, Product Strategy",4.7,5,Active,0,180000
+EMP1015,Diane Ramirez,HR,L2 - Senior Analyst,"L&D Design, HRIS Management",3.8,9,Active,0,45000
+EMP1016,Mr. Alan Green,HR,L2 - Senior Analyst,"Talent Acquisition, L&D Design",4.7,5,Active,0,45000
+EMP1017,Tracy Leonard,Finance,L4 - Senior Manager,"Financial Modelling, Regulatory Compliance",4.5,9,Active,0,110000
+EMP1018,Donna Thomas,Finance,L3 - Manager,"Risk Analysis, FP&A, Regulatory Compliance, Financial Modelling",4.8,12,Active,0,75000
+EMP1019,Catherine Jones,Product,L2 - Senior Analyst,"Stakeholder Management, Roadmapping, Data Analysis, Agile",3.6,4,Laid Off,0,45000
+EMP1020,Christopher Haney,Product,L1 - Analyst,"User Research, Agile, Stakeholder Management, Product Strategy",2.7,11,Laid Off,0,25000
+EMP1021,Brian Estes,Engineering,L4 - Senior Manager,"Python, ML/AI, Cloud Architecture",3.2,8,Laid Off,0,110000
+EMP1022,Allison Benitez,Finance,L3 - Manager,"Audit, Regulatory Compliance, Risk Analysis, Treasury",4.5,4,Active,0,75000
+EMP1023,Whitney Scott,Sales,L2 - Senior Analyst,"Market Analysis, Enterprise Sales, Account Management",2.7,12,Active,0,45000
+EMP1024,Christina Powell,Finance,L1 - Analyst,"Regulatory Compliance, Risk Analysis, Treasury, Financial Modelling",3.2,4,Active,1,25000
+EMP1025,Aaron Burgess,HR,L1 - Analyst,"HR Analytics, Talent Acquisition, Employee Relations, Compensation & Benefits",2.9,8,Active,0,25000
+EMP1026,Luis Lynn,Engineering,L1 - Analyst,"Cybersecurity, Data Engineering",4.8,8,Active,0,25000
+EMP1027,Timothy Garcia,HR,L3 - Manager,"HRIS Management, Employee Relations, L&D Design",3.0,1,Laid Off,0,75000
+EMP1028,Mr. Jose Walters II,HR,L1 - Analyst,"Talent Acquisition, Employee Relations, Compensation & Benefits",3.8,9,Active,0,25000
+EMP1029,Cheryl Rodriguez,HR,L1 - Analyst,"Talent Acquisition, HR Analytics",2.7,4,Active,0,25000
+EMP1030,Vanessa Wagner,HR,L1 - Analyst,"Talent Acquisition, HR Analytics, Employee Relations, HRIS Management",4.1,10,Active,0,25000
+EMP1031,Brendan Smith,Product,L1 - Analyst,"Roadmapping, User Research, Stakeholder Management, Agile",2.8,11,Active,1,25000
+EMP1032,Gregory Bryant,Engineering,L1 - Analyst,"ML/AI, Python, DevOps, Data Engineering",3.0,5,Laid Off,0,25000
+EMP1033,Gerald Velazquez,Product,L4 - Senior Manager,"Roadmapping, Stakeholder Management",2.9,9,Active,0,110000
+EMP1034,Ronald Fox,HR,L1 - Analyst,"L&D Design, Talent Acquisition, HRIS Management, Compensation & Benefits",2.8,2,Active,1,25000
+EMP1035,David Smith,Product,L2 - Senior Analyst,"Roadmapping, User Research, Stakeholder Management, Data Analysis",3.7,1,Laid Off,0,45000
+EMP1036,Robin Shaw,Sales,L3 - Manager,"Enterprise Sales, Negotiation",4.4,11,Active,0,75000
+EMP1037,Frank Curtis,Finance,L3 - Manager,"Treasury, Regulatory Compliance, Financial Modelling, Audit",2.7,12,Active,0,75000
+EMP1038,Carrie Hernandez,Product,L2 - Senior Analyst,"Data Analysis, User Research",2.6,6,Active,0,45000
+EMP1039,Mark Nelson,Engineering,L4 - Senior Manager,"DevOps, Cloud Architecture",4.2,6,Active,0,110000
+EMP1040,Tyler Williams,Sales,L5 - Director,"CRM Management, Forecasting, Account Management, Enterprise Sales",4.7,1,Active,0,180000
+EMP1041,Sean Jones,Sales,L3 - Manager,"CRM Management, Negotiation, Forecasting, Account Management",2.8,1,Active,1,75000
+EMP1042,Lisa Morgan,Sales,L2 - Senior Analyst,"CRM Management, Enterprise Sales",4.2,7,Active,0,45000
+EMP1043,Rebecca Fisher,Engineering,L5 - Director,"Data Engineering, ML/AI, Cybersecurity",4.2,9,Active,0,180000
+EMP1044,Nicholas Olson,Engineering,L1 - Analyst,"Cloud Architecture, ML/AI, Data Engineering",2.6,10,Active,0,25000
+EMP1045,Michael Miller,Product,L2 - Senior Analyst,"Product Strategy, Data Analysis, User Research, Agile",2.6,7,Laid Off,0,45000
+EMP1046,John Oneill,HR,L3 - Manager,"Employee Relations, HRIS Management, L&D Design, HR Analytics",2.7,11,Active,0,75000
+EMP1047,Peter Petersen,Engineering,L3 - Manager,"ML/AI, Data Engineering, Cybersecurity",3.3,12,Active,1,75000
+EMP1048,Olivia Nixon,Sales,L3 - Manager,"Forecasting, CRM Management, Negotiation",3.5,1,Active,1,75000
+EMP1049,Allison Garcia,HR,L2 - Senior Analyst,"Compensation & Benefits, Employee Relations, HR Analytics",4.2,9,Active,0,45000
+EMP1050,Ryan Nguyen,Finance,L3 - Manager,"Audit, Treasury, FP&A",2.7,4,Active,1,75000
+EMP1051,Brianna Cannon,Finance,L1 - Analyst,"Risk Analysis, Regulatory Compliance",4.0,2,Active,0,25000
+EMP1052,Wayne Sharp,HR,L1 - Analyst,"Compensation & Benefits, Employee Relations, HR Analytics, Talent Acquisition",2.9,12,Laid Off,0,25000
+EMP1053,Samantha Christian,Engineering,L3 - Manager,"Cloud Architecture, ML/AI",3.7,9,Laid Off,0,75000
+EMP1054,Ana Simpson,Engineering,L2 - Senior Analyst,"DevOps, ML/AI, Data Engineering",4.9,8,Active,0,45000
+EMP1055,Thomas Hernandez,HR,L2 - Senior Analyst,"Compensation & Benefits, HRIS Management, Employee Relations, HR Analytics",3.1,4,Active,1,45000
+EMP1056,Alison Greene,HR,L2 - Senior Analyst,"L&D Design, Compensation & Benefits",2.7,5,Laid Off,0,45000
+EMP1057,Todd Hunt,Product,L2 - Senior Analyst,"Product Strategy, User Research, Agile, Stakeholder Management",3.5,3,Active,0,45000
+EMP1058,Stacey Mays,Engineering,L2 - Senior Analyst,"ML/AI, Cybersecurity, DevOps",2.7,7,Active,0,45000
+EMP1059,Michael Rogers,Engineering,L4 - Senior Manager,"Cybersecurity, DevOps, Python, Cloud Architecture",3.2,7,Active,0,110000
+EMP1060,Jason Dennis,Sales,L2 - Senior Analyst,"Account Management, Forecasting, CRM Management, Market Analysis",3.0,7,Active,1,45000
+EMP1061,John Ross,Sales,L3 - Manager,"CRM Management, Account Management, Enterprise Sales",4.8,10,Active,0,75000
+EMP1062,Dylan Johnson,Engineering,L1 - Analyst,"Cloud Architecture, Cybersecurity, DevOps",2.6,7,Active,0,25000
+EMP1063,Kristine Harris,Product,L3 - Manager,"Roadmapping, Data Analysis, Stakeholder Management",4.6,8,Laid Off,0,75000
+EMP1064,Shawn Wolfe,HR,L1 - Analyst,"HRIS Management, Talent Acquisition, HR Analytics",4.4,4,Active,0,25000
+EMP1065,Rebekah Pineda PhD,Engineering,L2 - Senior Analyst,"Cloud Architecture, Cybersecurity",4.2,10,Active,0,45000
+EMP1066,Tasha Santos,Sales,L3 - Manager,"CRM Management, Account Management, Enterprise Sales",4.4,3,Active,0,75000
+EMP1067,Valerie Smith,Engineering,L2 - Senior Analyst,"ML/AI, Cybersecurity, DevOps",4.9,4,Active,0,45000
+EMP1068,Zachary Woods,Finance,L1 - Analyst,"Treasury, Audit, Financial Modelling",4.5,10,Active,0,25000
+EMP1069,Jonathan Jones,Product,L2 - Senior Analyst,"Roadmapping, Product Strategy, Stakeholder Management, Agile",4.6,8,Active,0,45000
+EMP1070,Bobby Wood MD,Product,L2 - Senior Analyst,"Stakeholder Management, User Research, Data Analysis",2.9,9,Active,1,45000
+EMP1071,Miranda Mitchell,HR,L3 - Manager,"Compensation & Benefits, HR Analytics, L&D Design",3.3,4,Active,1,75000
+EMP1072,Troy Underwood,Sales,L1 - Analyst,"Account Management, Forecasting, Market Analysis",3.3,8,Active,1,25000
+EMP1073,David Gordon,Finance,L2 - Senior Analyst,"FP&A, Treasury, Audit",3.9,9,Active,0,45000
+EMP1074,William Hernandez,Engineering,L1 - Analyst,"Cybersecurity, ML/AI, Cloud Architecture",4.2,11,Active,0,25000
+EMP1075,Alison Klein,Sales,L3 - Manager,"Negotiation, CRM Management",3.5,4,Active,0,75000
+EMP1076,Joy Martin,HR,L2 - Senior Analyst,"HR Analytics, L&D Design, Compensation & Benefits, Employee Relations",3.9,6,Active,0,45000
+EMP1077,Louis Mitchell,Product,L2 - Senior Analyst,"Product Strategy, User Research",3.3,12,Active,0,45000
+EMP1078,Victor Proctor,Finance,L1 - Analyst,"Regulatory Compliance, FP&A, Audit, Financial Modelling",4.6,5,Active,0,25000
+EMP1079,Michael Davis,Finance,L2 - Senior Analyst,"Audit, Risk Analysis, FP&A, Financial Modelling",4.9,9,Active,0,45000
+EMP1080,Kristen Duarte,Finance,L2 - Senior Analyst,"Financial Modelling, Treasury, FP&A",3.7,8,Active,0,45000
+EMP1081,Thomas Chavez,Engineering,L1 - Analyst,"Python, DevOps, Cybersecurity",3.7,10,Active,0,25000
+EMP1082,Tammy Harris,Engineering,L1 - Analyst,"Data Engineering, Python, Cloud Architecture, ML/AI",3.9,7,Active,0,25000
+EMP1083,Linda Villanueva,HR,L1 - Analyst,"Compensation & Benefits, Employee Relations, HR Analytics, HRIS Management",4.7,7,Active,0,25000
+EMP1084,Dana Chen,HR,L1 - Analyst,"Talent Acquisition, HRIS Management, HR Analytics, Compensation & Benefits",4.2,3,Active,0,25000
+EMP1085,Carla Brown,HR,L1 - Analyst,"Compensation & Benefits, Employee Relations",4.2,8,Active,0,25000
+EMP1086,Ashley Daugherty,Finance,L1 - Analyst,"Treasury, Regulatory Compliance, Financial Modelling",4.2,5,Active,0,25000
+EMP1087,Patricia Hamilton,HR,L3 - Manager,"Compensation & Benefits, Talent Acquisition",3.9,11,Active,0,75000
+EMP1088,Joshua Olsen,Product,L3 - Manager,"Product Strategy, User Research",4.5,10,Active,0,75000
+EMP1089,Susan Campbell,HR,L4 - Senior Manager,"Talent Acquisition, Compensation & Benefits, L&D Design",4.2,5,Active,0,110000
+EMP1090,Bradley Merritt Jr.,Sales,L2 - Senior Analyst,"Enterprise Sales, Market Analysis, Negotiation, Account Management",3.1,2,Laid Off,0,45000
+EMP1091,Michelle Hobbs,HR,L2 - Senior Analyst,"Employee Relations, L&D Design",3.9,3,Active,0,45000
+EMP1092,Garrett Evans,Sales,L4 - Senior Manager,"Account Management, Market Analysis",4.1,8,Active,0,110000
+EMP1093,Roger Richardson,Sales,L2 - Senior Analyst,"Negotiation, Enterprise Sales, CRM Management",3.3,12,Active,0,45000
+EMP1094,Jose Hamilton,Sales,L3 - Manager,"Enterprise Sales, Market Analysis, Forecasting, CRM Management",3.1,2,Active,0,75000
+EMP1095,Jorge Cruz,HR,L3 - Manager,"Employee Relations, HR Analytics",3.7,1,Laid Off,0,75000
+EMP1096,Jason Greene,Product,L2 - Senior Analyst,"Stakeholder Management, Data Analysis, Product Strategy",3.0,9,Laid Off,0,45000
+EMP1097,Katelyn Conley,Product,L2 - Senior Analyst,"Data Analysis, Product Strategy, Agile, Roadmapping",4.0,4,Active,0,45000
+EMP1098,David Parker,Product,L2 - Senior Analyst,"Data Analysis, Product Strategy, User Research, Agile",3.7,2,Active,0,45000
+EMP1099,Andrew Foster,Finance,L2 - Senior Analyst,"FP&A, Audit, Treasury, Risk Analysis",4.6,8,Active,0,45000
+EMP1100,Victoria Logan,HR,L1 - Analyst,"HR Analytics, Employee Relations",4.4,3,Active,0,25000
+EMP1101,Eric Russo,Product,L3 - Manager,"Roadmapping, Agile, Stakeholder Management",4.6,5,Active,0,75000
+EMP1102,Andrea Stone,HR,L2 - Senior Analyst,"Compensation & Benefits, HRIS Management, Employee Relations, L&D Design",3.7,6,Active,0,45000
+EMP1103,Joseph Smith,HR,L2 - Senior Analyst,"HRIS Management, Employee Relations, Compensation & Benefits",3.1,7,Laid Off,0,45000
+EMP1104,Gabrielle Robinson,Sales,L3 - Manager,"Market Analysis, CRM Management, Forecasting",4.9,3,Active,0,75000
+EMP1105,Carl Clark,HR,L2 - Senior Analyst,"Compensation & Benefits, Talent Acquisition",3.8,8,Laid Off,0,45000
+EMP1106,Renee Thomas,Finance,L2 - Senior Analyst,"Risk Analysis, Financial Modelling, Regulatory Compliance, Treasury",3.3,12,Active,1,45000
+EMP1107,Angela Peterson,Product,L4 - Senior Manager,"Data Analysis, Roadmapping, Stakeholder Management, Agile",2.6,2,Laid Off,0,110000
+EMP1108,Doris Haley,Product,L5 - Director,"Product Strategy, Data Analysis, Stakeholder Management, Roadmapping",4.3,2,Active,0,180000
+EMP1109,Holly Becker,Product,L4 - Senior Manager,"Roadmapping, Product Strategy",3.2,6,Active,1,110000
+EMP1110,Michelle Bridges,Sales,L2 - Senior Analyst,"CRM Management, Forecasting",2.7,7,Active,1,45000
+EMP1111,Cindy Johnson,HR,L1 - Analyst,"Employee Relations, L&D Design, Compensation & Benefits",3.1,1,Active,0,25000
+EMP1112,Jackson Harris,Product,L3 - Manager,"Product Strategy, Data Analysis",4.9,10,Active,0,75000
+EMP1113,Jon Alexander,Sales,L3 - Manager,"Negotiation, CRM Management, Market Analysis",4.6,2,Active,0,75000
+EMP1114,Dennis Morrison,HR,L2 - Senior Analyst,"Employee Relations, L&D Design, Talent Acquisition",4.9,11,Active,0,45000
+EMP1115,Emily Wolfe,Engineering,L2 - Senior Analyst,"DevOps, Python, Cybersecurity, Cloud Architecture",4.4,4,Active,0,45000
+EMP1116,Sydney Thomas,Product,L1 - Analyst,"Agile, Roadmapping",4.2,12,Active,0,25000
+EMP1117,Ryan Holder,Finance,L2 - Senior Analyst,"Treasury, Financial Modelling, FP&A, Risk Analysis",2.6,6,Active,1,45000
+EMP1118,Robert White,Product,L2 - Senior Analyst,"User Research, Stakeholder Management, Agile",4.5,6,Active,0,45000
+EMP1119,Aaron Sanchez,Product,L3 - Manager,"Data Analysis, Roadmapping, Agile",4.5,8,Active,0,75000
+EMP1120,Anthony Lewis,Finance,L3 - Manager,"Treasury, Regulatory Compliance",4.9,9,Active,0,75000
+EMP1121,Geoffrey Perez,Sales,L1 - Analyst,"Enterprise Sales, Market Analysis, Negotiation, Account Management",4.4,5,Active,0,25000
+EMP1122,Mrs. Kelly Davis,Product,L1 - Analyst,"Data Analysis, Product Strategy",4.0,9,Active,0,25000
+EMP1123,Brenda Andrews,HR,L1 - Analyst,"Employee Relations, Compensation & Benefits",4.8,5,Active,0,25000
+EMP1124,Jason Graham,Engineering,L1 - Analyst,"Data Engineering, Cybersecurity",2.8,4,Active,1,25000
+EMP1125,Crystal Mitchell,Sales,L2 - Senior Analyst,"Forecasting, Account Management, Market Analysis, Negotiation",4.4,3,Active,0,45000
+EMP1126,Benjamin Barber,Engineering,L3 - Manager,"Cybersecurity, Data Engineering, Python, ML/AI",3.4,8,Active,1,75000
+EMP1127,Priscilla Huber,Product,L1 - Analyst,"Roadmapping, Agile, Stakeholder Management, Product Strategy",3.5,4,Active,0,25000
+EMP1128,Linda Peterson,Sales,L1 - Analyst,"Forecasting, Account Management",4.9,1,Active,1,25000
+EMP1129,Jennifer Martinez,Finance,L3 - Manager,"Financial Modelling, Audit",3.0,4,Active,1,75000
+EMP1130,Kelly Adams,Finance,L3 - Manager,"Financial Modelling, FP&A, Risk Analysis, Treasury",3.9,3,Active,0,75000
+EMP1131,David Ross,Engineering,L1 - Analyst,"Cloud Architecture, ML/AI, Data Engineering",2.5,5,Laid Off,0,25000
+EMP1132,Nancy Morrison,Sales,L2 - Senior Analyst,"Enterprise Sales, Market Analysis, Account Management, CRM Management",3.8,2,Active,0,45000
+EMP1133,Ryan Patterson,Finance,L4 - Senior Manager,"Treasury, Audit",3.3,11,Active,1,110000
+EMP1134,Deanna Cole,Sales,L3 - Manager,"Forecasting, Enterprise Sales, Market Analysis",4.3,8,Active,0,75000
+EMP1135,Matthew Sweeney,Engineering,L2 - Senior Analyst,"Python, Cloud Architecture",3.2,11,Active,0,45000
+EMP1136,Michael Taylor DDS,Sales,L5 - Director,"Negotiation, Market Analysis, Account Management, Enterprise Sales",4.5,2,Active,0,180000
+EMP1137,Margaret Wilson,HR,L3 - Manager,"Compensation & Benefits, Employee Relations",4.7,7,Active,0,75000
+EMP1138,Lisa Snow,Sales,L2 - Senior Analyst,"Enterprise Sales, Negotiation, Market Analysis, CRM Management",4.2,6,Active,0,45000
+EMP1139,David Brennan,Sales,L1 - Analyst,"Enterprise Sales, Market Analysis",2.7,12,Active,1,25000
+EMP1140,Nicole James,Engineering,L2 - Senior Analyst,"ML/AI, Data Engineering, Python, Cloud Architecture",3.4,11,Active,0,45000
+EMP1141,Cynthia Taylor,Engineering,L5 - Director,"Data Engineering, DevOps, Python, ML/AI",3.8,3,Active,0,180000
+EMP1142,Shane Carter,Finance,L3 - Manager,"Audit, FP&A, Financial Modelling",4.4,10,Active,0,75000
+EMP1143,Justin Chen,Sales,L3 - Manager,"Account Management, Forecasting, Enterprise Sales, Negotiation",4.8,12,Active,0,75000
+EMP1144,Tamara Gentry,Finance,L1 - Analyst,"FP&A, Treasury, Financial Modelling",3.0,3,Active,0,25000
+EMP1145,Rebecca Boyd,Finance,L3 - Manager,"Financial Modelling, Audit",3.0,7,Active,1,75000
+EMP1146,Mason Jones,Product,L3 - Manager,"Agile, Product Strategy, Stakeholder Management, Data Analysis",2.9,10,Laid Off,0,75000
+EMP1147,Matthew Brown,Engineering,L1 - Analyst,"Cybersecurity, DevOps, ML/AI, Cloud Architecture",3.2,9,Laid Off,0,25000
+EMP1148,Debbie Martinez DDS,Sales,L1 - Analyst,"Forecasting, Account Management, Market Analysis, Negotiation",4.2,1,Active,0,25000
+EMP1149,David Smith DDS,Engineering,L1 - Analyst,"Cloud Architecture, DevOps, Data Engineering",3.2,2,Laid Off,0,25000
+EMP1150,Anthony Reynolds,Sales,L1 - Analyst,"Account Management, CRM Management, Negotiation",2.7,12,Laid Off,0,25000
+EMP1151,Karen Smith,Engineering,L2 - Senior Analyst,"Data Engineering, ML/AI",3.6,7,Active,0,45000
+EMP1152,Donald Charles,Sales,L1 - Analyst,"Enterprise Sales, Negotiation, CRM Management",4.5,10,Active,0,25000
+EMP1153,Nina Campos,Product,L1 - Analyst,"User Research, Data Analysis",4.0,9,Active,0,25000
+EMP1154,Dale Cook,Product,L3 - Manager,"Roadmapping, User Research",2.7,11,Laid Off,0,75000
+EMP1155,Jonathan Rodriguez,HR,L1 - Analyst,"L&D Design, HRIS Management, HR Analytics",2.8,5,Laid Off,0,25000
+EMP1156,Susan Jones,HR,L1 - Analyst,"Talent Acquisition, HRIS Management, Compensation & Benefits, HR Analytics",4.4,10,Active,0,25000
+EMP1157,Steven Montgomery,HR,L2 - Senior Analyst,"L&D Design, Employee Relations, HRIS Management, Compensation & Benefits",2.7,8,Active,0,45000
+EMP1158,Kelly Webb,HR,L1 - Analyst,"Talent Acquisition, L&D Design, Compensation & Benefits, HRIS Management",2.6,6,Active,1,25000
+EMP1159,Virginia Grimes,Engineering,L2 - Senior Analyst,"Cybersecurity, DevOps, Python, Cloud Architecture",4.8,10,Active,0,45000
+EMP1160,Mindy Moore,Product,L2 - Senior Analyst,"User Research, Product Strategy, Data Analysis, Agile",4.5,6,Active,0,45000
+EMP1161,Danielle Lewis,Engineering,L2 - Senior Analyst,"Python, Cloud Architecture",4.3,8,Active,0,45000
+EMP1162,Stephanie Phillips,HR,L1 - Analyst,"L&D Design, Compensation & Benefits, HR Analytics",4.4,11,Active,0,25000
+EMP1163,Michael Baird,Product,L1 - Analyst,"Agile, Data Analysis",3.2,12,Active,0,25000
+EMP1164,Frederick Henderson,HR,L4 - Senior Manager,"Talent Acquisition, HR Analytics, HRIS Management",4.8,5,Active,0,110000
+EMP1165,Kristina Ramirez,Sales,L1 - Analyst,"Enterprise Sales, Negotiation, Market Analysis, Account Management",4.5,3,Active,0,25000
+EMP1166,Troy Wright,HR,L1 - Analyst,"Compensation & Benefits, HR Analytics, L&D Design, Talent Acquisition",3.4,3,Active,1,25000
+EMP1167,William Weber,Sales,L1 - Analyst,"CRM Management, Enterprise Sales",3.2,2,Active,0,25000
+EMP1168,Luis Hodge,HR,L1 - Analyst,"HR Analytics, HRIS Management, Compensation & Benefits",2.9,3,Active,0,25000
+EMP1169,Charles Evans,Finance,L3 - Manager,"Regulatory Compliance, FP&A",4.2,4,Active,0,75000
+EMP1170,Timothy Brown,HR,L1 - Analyst,"Compensation & Benefits, HRIS Management, HR Analytics, Employee Relations",4.9,8,Active,0,25000
+EMP1171,Debra Martinez,Finance,L2 - Senior Analyst,"Regulatory Compliance, Treasury, FP&A, Risk Analysis",3.8,7,Active,0,45000
+EMP1172,Zachary Davila,Finance,L3 - Manager,"FP&A, Financial Modelling",4.1,6,Active,0,75000
+EMP1173,Eileen Hanson,Engineering,L3 - Manager,"Python, Data Engineering, DevOps, Cybersecurity",3.2,9,Laid Off,0,75000
+EMP1174,Faith Smith,Sales,L1 - Analyst,"Market Analysis, Negotiation",4.8,7,Active,0,25000
+EMP1175,Steve Smith,HR,L2 - Senior Analyst,"Talent Acquisition, L&D Design, HRIS Management",2.6,2,Active,0,45000
+EMP1176,Jon Montgomery,Finance,L1 - Analyst,"Regulatory Compliance, Risk Analysis, Treasury",3.6,1,Active,1,25000
+EMP1177,Mrs. Cindy Keller,Finance,L3 - Manager,"Treasury, Audit, Regulatory Compliance, Financial Modelling",4.4,4,Active,0,75000
+EMP1178,Krystal Romero,Engineering,L1 - Analyst,"ML/AI, Cybersecurity, Python, DevOps",4.6,8,Active,0,25000
+EMP1179,Allison Page,Engineering,L2 - Senior Analyst,"Cloud Architecture, DevOps, Data Engineering, ML/AI",2.5,6,Laid Off,0,45000
+EMP1180,Gabrielle Bowman,Sales,L1 - Analyst,"Enterprise Sales, Account Management, Negotiation, Forecasting",4.9,9,Active,0,25000
+EMP1181,Jennifer Vaughan,HR,L2 - Senior Analyst,"Compensation & Benefits, Talent Acquisition, Employee Relations",5.0,5,Active,0,45000
+EMP1182,Jonathan Carlson,Product,L3 - Manager,"User Research, Product Strategy, Roadmapping",2.8,6,Active,0,75000
+EMP1183,Lauren Townsend,Finance,L3 - Manager,"Regulatory Compliance, Treasury, Risk Analysis, Financial Modelling",2.7,8,Laid Off,0,75000
+EMP1184,Melissa Palmer,Finance,L1 - Analyst,"Financial Modelling, FP&A",4.8,9,Active,0,25000
+EMP1185,Alexandra Stark,HR,L2 - Senior Analyst,"Employee Relations, HRIS Management",3.2,1,Active,1,45000
+EMP1186,Lindsay Hunter,Engineering,L3 - Manager,"Cybersecurity, DevOps, ML/AI",3.3,3,Active,0,75000
+EMP1187,Brian Salazar,HR,L1 - Analyst,"Employee Relations, Compensation & Benefits",2.7,10,Active,1,25000
+EMP1188,Mandy Stevens,Product,L2 - Senior Analyst,"Roadmapping, Stakeholder Management",3.3,10,Active,1,45000
+EMP1189,Amber Wilson,Sales,L2 - Senior Analyst,"Forecasting, Negotiation",4.0,7,Active,0,45000
+EMP1190,Brian White,Engineering,L1 - Analyst,"Cybersecurity, Data Engineering, Cloud Architecture, Python",2.9,10,Active,0,25000
+EMP1191,Ana Conner,Finance,L1 - Analyst,"FP&A, Treasury, Regulatory Compliance, Audit",2.6,3,Active,0,25000
+EMP1192,Laura Stewart,Product,L2 - Senior Analyst,"Agile, User Research",3.8,7,Active,0,45000
+EMP1193,Debra Griffin,Product,L1 - Analyst,"Product Strategy, User Research",3.7,7,Active,0,25000
+EMP1194,Sarah Ramirez,Engineering,L1 - Analyst,"DevOps, Cybersecurity, Cloud Architecture",5.0,5,Active,0,25000
+EMP1195,Stacy Nelson,Sales,L1 - Analyst,"Enterprise Sales, Market Analysis",2.9,12,Active,1,25000
+EMP1196,Tina Chapman,Product,L3 - Manager,"Product Strategy, Agile, Roadmapping, User Research",4.6,12,Active,0,75000
+EMP1197,Seth Love,Finance,L3 - Manager,"Risk Analysis, Financial Modelling, Treasury, Audit",3.1,8,Laid Off,0,75000
+EMP1198,John Chambers,HR,L2 - Senior Analyst,"HR Analytics, HRIS Management, Talent Acquisition",2.7,7,Active,0,45000
+EMP1199,Hector Jackson,HR,L2 - Senior Analyst,"HR Analytics, Talent Acquisition, HRIS Management",4.9,11,Active,0,45000
+EMP1200,Brian Moore MD,Sales,L3 - Manager,"CRM Management, Account Management, Forecasting",4.4,3,Active,0,75000
+EMP1201,Robert Evans,Engineering,L3 - Manager,"Cloud Architecture, Data Engineering, DevOps, Python",3.3,12,Laid Off,0,75000
+EMP1202,Joseph Wall,HR,L4 - Senior Manager,"L&D Design, HRIS Management",4.1,9,Active,0,110000
+EMP1203,Haley Stewart,Product,L2 - Senior Analyst,"Agile, User Research",4.0,10,Active,0,45000
+EMP1204,Virginia Brooks,HR,L3 - Manager,"L&D Design, HR Analytics, Talent Acquisition, Compensation & Benefits",2.7,11,Active,1,75000
+EMP1205,James Brooks,Finance,L3 - Manager,"Audit, Financial Modelling, Regulatory Compliance",4.7,9,Active,0,75000
+EMP1206,Melissa Dougherty,Product,L2 - Senior Analyst,"Data Analysis, Roadmapping, Stakeholder Management, Product Strategy",4.2,3,Active,0,45000
+EMP1207,Donald Rose,Sales,L2 - Senior Analyst,"Account Management, CRM Management, Negotiation",4.7,6,Active,0,45000
+EMP1208,Michael Pierce,Product,L5 - Director,"Roadmapping, Agile",3.9,6,Active,0,180000
+EMP1209,Linda Fleming,Engineering,L1 - Analyst,"Cloud Architecture, Python",2.6,7,Active,0,25000
+EMP1210,Kayla Burke,Finance,L3 - Manager,"Treasury, FP&A, Risk Analysis, Financial Modelling",3.7,9,Active,0,75000
+EMP1211,Anne Miller,Product,L2 - Senior Analyst,"Data Analysis, Agile",3.6,4,Laid Off,0,45000
+EMP1212,Richard Walker,Product,L1 - Analyst,"Data Analysis, Agile, Stakeholder Management",3.2,1,Active,0,25000
+EMP1213,Martin Rogers,Product,L3 - Manager,"Roadmapping, Product Strategy, Data Analysis",2.6,9,Laid Off,0,75000
+EMP1214,Denise Wilson,HR,L1 - Analyst,"HR Analytics, Compensation & Benefits, L&D Design",4.6,10,Active,0,25000
+EMP1215,John Brown,Engineering,L1 - Analyst,"Cybersecurity, Data Engineering",4.5,6,Active,0,25000
+EMP1216,Evan Osborne DVM,Product,L3 - Manager,"Agile, Stakeholder Management",3.5,1,Laid Off,0,75000
+EMP1217,Randy Obrien,Finance,L3 - Manager,"Audit, Regulatory Compliance, Risk Analysis",4.0,9,Active,0,75000
+EMP1218,Patricia Fleming,HR,L2 - Senior Analyst,"HR Analytics, L&D Design, Employee Relations",3.8,9,Active,0,45000
+EMP1219,Stephen Gonzalez,HR,L1 - Analyst,"L&D Design, Employee Relations",4.2,7,Active,0,25000
+EMP1220,Larry Brown,Engineering,L2 - Senior Analyst,"DevOps, ML/AI, Cloud Architecture",4.3,10,Active,0,45000
+EMP1221,Thomas Davis,HR,L2 - Senior Analyst,"Compensation & Benefits, HRIS Management, HR Analytics, Talent Acquisition",3.9,12,Active,0,45000
+EMP1222,Mrs. Stephanie Small,Engineering,L2 - Senior Analyst,"Cloud Architecture, Cybersecurity, DevOps",3.5,10,Active,0,45000
+EMP1223,Benjamin Sullivan,Engineering,L3 - Manager,"Cloud Architecture, ML/AI, Data Engineering, Cybersecurity",3.7,7,Active,0,75000
+EMP1224,Lauren Mills,Finance,L2 - Senior Analyst,"FP&A, Audit, Treasury, Regulatory Compliance",4.4,12,Active,0,45000
+EMP1225,Lori Stout,Product,L2 - Senior Analyst,"User Research, Roadmapping",3.9,4,Active,0,45000
+EMP1226,James Cochran,Product,L3 - Manager,"User Research, Data Analysis, Roadmapping, Stakeholder Management",3.4,12,Active,1,75000
+EMP1227,Dustin Graham,HR,L2 - Senior Analyst,"L&D Design, HRIS Management, Employee Relations",2.6,12,Laid Off,0,45000
+EMP1228,Kevin Rosario,Sales,L3 - Manager,"Market Analysis, CRM Management, Account Management, Negotiation",3.2,9,Active,1,75000
+EMP1229,Carla Kramer,HR,L3 - Manager,"HRIS Management, Talent Acquisition",4.2,9,Active,0,75000
+EMP1230,Andrea Roberts,Finance,L1 - Analyst,"FP&A, Regulatory Compliance, Financial Modelling",4.2,3,Laid Off,0,25000
+EMP1231,Kristina Baker,HR,L5 - Director,"Compensation & Benefits, Employee Relations",3.7,4,Active,0,180000
+EMP1232,Donna Ewing,Product,L2 - Senior Analyst,"Product Strategy, Stakeholder Management, User Research, Roadmapping",4.3,1,Active,1,45000
+EMP1233,Katelyn Barry,Finance,L4 - Senior Manager,"Regulatory Compliance, Treasury",3.0,12,Active,0,110000
+EMP1234,David Hunter,Engineering,L1 - Analyst,"ML/AI, Python, Data Engineering, Cloud Architecture",3.6,11,Active,0,25000
+EMP1235,Faith Simon,Sales,L4 - Senior Manager,"Account Management, Market Analysis",3.2,2,Active,0,110000
+EMP1236,Christina Rodriguez,Product,L3 - Manager,"Stakeholder Management, Roadmapping",4.5,10,Active,0,75000
+EMP1237,John Haney,Finance,L1 - Analyst,"Regulatory Compliance, Treasury, FP&A, Financial Modelling",3.5,2,Laid Off,0,25000
+EMP1238,Amy Harris,Finance,L2 - Senior Analyst,"Financial Modelling, FP&A",3.5,8,Active,0,45000
+EMP1239,Jimmy Gray DVM,Product,L2 - Senior Analyst,"Agile, Product Strategy, Roadmapping, Data Analysis",3.4,4,Laid Off,0,45000
+EMP1240,Briana Copeland,Engineering,L2 - Senior Analyst,"Cybersecurity, ML/AI",4.8,12,Active,0,45000
+EMP1241,Paul Davies,Engineering,L2 - Senior Analyst,"Data Engineering, ML/AI, Cloud Architecture",3.0,3,Active,0,45000
+EMP1242,Craig Cooper,HR,L2 - Senior Analyst,"HR Analytics, Compensation & Benefits, HRIS Management, Talent Acquisition",4.2,10,Active,0,45000
+EMP1243,Vincent Oliver,Engineering,L2 - Senior Analyst,"DevOps, Data Engineering, Python, ML/AI",2.8,9,Active,1,45000
+EMP1244,Kenneth Jackson,HR,L1 - Analyst,"HR Analytics, Compensation & Benefits, Talent Acquisition",4.2,12,Active,0,25000
+EMP1245,Sarah Mcmahon,Engineering,L4 - Senior Manager,"Python, Cybersecurity, Cloud Architecture",3.8,8,Active,0,110000
+EMP1246,Trevor Welch,HR,L2 - Senior Analyst,"Employee Relations, Talent Acquisition, Compensation & Benefits",3.1,1,Active,0,45000
+EMP1247,Timothy Long,Engineering,L2 - Senior Analyst,"Python, ML/AI, DevOps, Cybersecurity",5.0,8,Laid Off,0,45000
+EMP1248,Mrs. Jacqueline Martin,Sales,L1 - Analyst,"Forecasting, Market Analysis",3.4,7,Active,0,25000
+EMP1249,Amy Rush,Sales,L2 - Senior Analyst,"Forecasting, Account Management, CRM Management, Negotiation",4.7,2,Active,0,45000
+EMP1250,Anthony Ramirez,HR,L2 - Senior Analyst,"Employee Relations, HRIS Management",4.6,1,Active,0,45000
+EMP1251,Jose Washington,HR,L2 - Senior Analyst,"HRIS Management, Employee Relations, Compensation & Benefits",3.4,5,Laid Off,0,45000
+EMP1252,Daniel Webb,Engineering,L1 - Analyst,"Cybersecurity, ML/AI, Python, DevOps",3.0,2,Laid Off,0,25000
+EMP1253,John Williams,Sales,L2 - Senior Analyst,"Enterprise Sales, CRM Management, Forecasting, Account Management",3.6,9,Laid Off,0,45000
+EMP1254,Mitchell Cruz,Engineering,L1 - Analyst,"Cloud Architecture, ML/AI, Data Engineering",3.9,11,Active,0,25000
+EMP1255,Robin Allen,Finance,L2 - Senior Analyst,"Treasury, Audit",3.1,5,Active,0,45000
+EMP1256,Tina Rivera,HR,L4 - Senior Manager,"Employee Relations, Compensation & Benefits",3.9,1,Active,0,110000
+EMP1257,Shelley Simpson,Sales,L3 - Manager,"Forecasting, Market Analysis, Account Management",2.9,7,Laid Off,0,75000
+EMP1258,Daniel Orozco,HR,L2 - Senior Analyst,"L&D Design, HRIS Management",4.5,1,Active,0,45000
+EMP1259,George Franklin,HR,L2 - Senior Analyst,"HRIS Management, L&D Design, Employee Relations",3.3,2,Active,0,45000
+EMP1260,Kimberly Barnett,Engineering,L2 - Senior Analyst,"Python, Data Engineering",3.4,10,Active,0,45000
+EMP1261,Shawn Marshall,Finance,L3 - Manager,"Treasury, Audit, Risk Analysis, Regulatory Compliance",3.0,6,Active,0,75000
+EMP1262,Savannah Stone,Finance,L4 - Senior Manager,"Financial Modelling, Regulatory Compliance, Risk Analysis, FP&A",4.0,4,Active,0,110000
+EMP1263,Lisa Banks,Finance,L2 - Senior Analyst,"Regulatory Compliance, Treasury, FP&A",3.3,6,Active,0,45000
+EMP1264,Olivia Miller,Engineering,L3 - Manager,"Cybersecurity, Data Engineering, Cloud Architecture, DevOps",3.3,1,Active,1,75000
+EMP1265,Samuel Melton,Finance,L1 - Analyst,"Audit, Treasury, Regulatory Compliance, Risk Analysis",2.9,6,Laid Off,0,25000
+EMP1266,Rebecca Dunn,HR,L3 - Manager,"HR Analytics, L&D Design, Employee Relations",4.4,8,Active,0,75000
+EMP1267,Wendy Lee,Sales,L2 - Senior Analyst,"Negotiation, CRM Management, Account Management, Forecasting",3.9,3,Active,0,45000
+EMP1268,Mark Mcintosh,HR,L5 - Director,"HR Analytics, Talent Acquisition",4.6,2,Active,0,180000
+EMP1269,Jill Cunningham,Engineering,L3 - Manager,"Cloud Architecture, DevOps, Python",4.3,1,Active,0,75000
+EMP1270,Nicholas Peterson,Engineering,L2 - Senior Analyst,"ML/AI, Cybersecurity, DevOps, Python",2.5,9,Active,1,45000
+EMP1271,Jasmine Ortiz,Product,L2 - Senior Analyst,"Product Strategy, Agile, Data Analysis",4.5,3,Active,0,45000
+EMP1272,Thomas Boone,Engineering,L2 - Senior Analyst,"Cloud Architecture, ML/AI",3.8,6,Active,0,45000
+EMP1273,Ruth King,Sales,L1 - Analyst,"Market Analysis, Account Management, CRM Management",5.0,4,Active,0,25000
+EMP1274,Kevin Davis,Engineering,L3 - Manager,"Python, DevOps, Cybersecurity, Cloud Architecture",3.4,8,Laid Off,0,75000
+EMP1275,Colin Miller,Engineering,L3 - Manager,"Cybersecurity, DevOps",4.1,6,Active,0,75000
+EMP1276,Gabrielle Garcia,Engineering,L4 - Senior Manager,"Cloud Architecture, DevOps",4.8,12,Active,0,110000
+EMP1277,David Bates,Sales,L1 - Analyst,"Forecasting, Negotiation",4.7,10,Active,0,25000
+EMP1278,Lauren Vega,Finance,L4 - Senior Manager,"Financial Modelling, Risk Analysis, Audit",4.4,12,Active,0,110000
+EMP1279,Keith Gonzales,Engineering,L1 - Analyst,"Cloud Architecture, ML/AI, Cybersecurity, Data Engineering",4.7,6,Active,0,25000
+EMP1280,Mary Avila,Finance,L3 - Manager,"Treasury, Financial Modelling, FP&A, Audit",2.7,4,Active,1,75000
+EMP1281,Terry Wilkinson,HR,L5 - Director,"L&D Design, Talent Acquisition, Employee Relations",4.5,8,Active,0,180000
+EMP1282,Jennifer Garrett,Product,L2 - Senior Analyst,"Data Analysis, User Research, Stakeholder Management",2.7,10,Active,1,45000
+EMP1283,John Green,Engineering,L1 - Analyst,"Cybersecurity, Cloud Architecture",4.3,6,Active,0,25000
+EMP1284,Heather Park,Engineering,L1 - Analyst,"Cybersecurity, Data Engineering, ML/AI",2.8,2,Laid Off,0,25000
+EMP1285,Amy Nixon,Sales,L2 - Senior Analyst,"Market Analysis, Enterprise Sales, Account Management, Forecasting",3.4,2,Active,0,45000
+EMP1286,Dillon White,Sales,L1 - Analyst,"Market Analysis, Enterprise Sales, CRM Management",3.9,3,Active,0,25000
+EMP1287,Justin Garcia,Finance,L1 - Analyst,"FP&A, Regulatory Compliance, Risk Analysis",2.7,7,Active,1,25000
+EMP1288,Sara Hill,Engineering,L2 - Senior Analyst,"DevOps, Cybersecurity",4.0,4,Active,0,45000
+EMP1289,Kimberly Cruz,Finance,L2 - Senior Analyst,"FP&A, Audit, Regulatory Compliance",4.5,6,Active,0,45000
+EMP1290,Alexander Ramirez,Sales,L3 - Manager,"Account Management, CRM Management, Negotiation, Forecasting",4.0,12,Active,0,75000
+EMP1291,Mr. Jeremy Frey MD,Product,L1 - Analyst,"Roadmapping, Stakeholder Management, Data Analysis",4.9,4,Active,0,25000
+EMP1292,Stephen Clark,Product,L3 - Manager,"Roadmapping, Product Strategy, User Research",4.0,9,Active,0,75000
+EMP1293,Joseph Mckinney,HR,L1 - Analyst,"Compensation & Benefits, HRIS Management, Employee Relations, HR Analytics",4.6,2,Active,0,25000
+EMP1294,Claudia Bailey,Sales,L3 - Manager,"Forecasting, Negotiation",3.1,11,Laid Off,0,75000
+EMP1295,Kathleen Rogers,Sales,L3 - Manager,"Market Analysis, Account Management",3.7,7,Active,0,75000
+EMP1296,Lori Pearson,Sales,L2 - Senior Analyst,"Forecasting, Account Management, Enterprise Sales",2.8,4,Active,1,45000
+EMP1297,Melanie Cummings,HR,L1 - Analyst,"Employee Relations, Compensation & Benefits, L&D Design, HRIS Management",2.8,2,Laid Off,0,25000
+EMP1298,Rebecca Buchanan,HR,L3 - Manager,"HR Analytics, Employee Relations, HRIS Management, Compensation & Benefits",3.4,8,Active,0,75000
+EMP1299,Samantha Jones,HR,L1 - Analyst,"Compensation & Benefits, Talent Acquisition",3.2,2,Laid Off,0,25000
